@@ -1,0 +1,215 @@
+.header{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    align-items: center;
+}
+.left-section{
+ text-align: center;
+ width: 50%;
+}
+.right-section{
+text-align: center;
+width: 50%;
+}
+.buy-button{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 22px;
+    padding-right: 22px;
+
+    background-color: rgb(0,113,227);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    transition: opacity 0.15s;
+    font-size: 20px;
+    vertical-align: auto;
+    cursor: pointer;
+}
+.buy-button:hover{
+    opacity: 0.7;
+}
+
+.left1{
+    font-size: 40px;
+}
+.right1{
+    display: flex;
+    color: rgb(0, 0, 0);
+   
+
+}
+.right1 li{
+    list-style: none;
+    padding: 7px;
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 17px;
+    padding-right: 17px;
+
+
+}
+.main-body{
+    width: auto;
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.content{
+    background-color: rgb(218, 227, 235);
+    margin: 0;
+    padding: 0 25% 0 25%;
+    height: auto;
+}
+.content-1{
+    align-content: center;
+    text-align: center;
+    background-color: rgb(218, 227, 235);
+    padding: 20px 0 20px 0;
+    justify-content: center;
+}
+.para1{
+    margin-bottom: 20px;
+    
+}
+
+.buy-button1{
+    background-color: rgb(85, 168, 250);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.15s;
+    font-size: 25px;
+    padding: 10px;
+
+    
+}
+.buy-button1:hover{
+    opacity: 0.4;
+} 
+.new photo{
+    width: 380px;
+    object-fit:cover;
+    background-color:
+    rgb(218, 227, 235);
+    padding-top: 17px;
+} 
+.page-2{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+}
+.page2-left{
+    margin-right: 20px;
+    width: 33.33%;
+    
+}
+
+.page2-right{
+    margin-right: 20px;
+   width: 33.33%;
+    
+}
+
+
+.photo1{
+    object-fit: cover;
+}
+.page2-three{
+    width: 33.33%;
+    object-fit: cover;
+
+}
+.y{
+    position: absolute;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    padding-top: 25%;
+}
+.y1{
+    position: absolute;
+    font-size: 30px;
+    color:rgb(255, 255, 255);
+    padding-top: 25%;
+   
+}
+.page-3{
+    background-color: white;
+    width: 100%;
+    
+
+}
+.page-3main{
+    width: 100%;
+    text-align: center;
+    margin-top: 250px;
+    
+    
+}
+.enquiry{
+    display: flex;
+    justify-content: center;
+    margin-top: 220px;
+}
+.para5{
+    width: 400px;
+    margin-top: 70px;
+    font-size:19px ;
+}
+.para6{
+    font-size: 32px;
+}
+.para7{
+    font-size: 56px;
+}
+.para8{
+    font-size: 19px;
+    margin-top:60px;
+    cursor: pointer;
+    color: rgb(23, 167, 228);
+    margin-bottom: 100px;
+}
+.footer{
+    width: 100%;
+}
+.footer-main{
+    display: flex;
+    justify-content: space-between;
+}
+.fot{
+    list-style: none;
+    display: flex;
+
+}
+.footer-main{
+   
+    justify-content: center;
+    margin-top: 0px;
+    
+}
+.fooott{
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
+.fooott2 ul li{
+    list-style: none;
+    
+}
+.fooott2 ul{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.liii:hover{
+    cursor: pointer;
+}
