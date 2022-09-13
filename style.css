@@ -71,7 +71,7 @@ width: 50%;
     text-align: center;
     background-color: rgb(218, 227, 235);
     padding: 20px 0 20px 0;
-    justify-content: center;
+    /* justify-content: center; */
 }
 .para1{
     margin-bottom: 20px;
@@ -180,19 +180,21 @@ width: 50%;
 }
 .footer-main{
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
+    margin-top: 0px;
 }
 .fot{
     list-style: none;
     display: flex;
 
 }
-.footer-main{
+/* .footer-main{
    
     justify-content: center;
     margin-top: 0px;
     
-}
+} */
 .fooott{
     margin-right: 10%;
     margin-bottom: 20px;
